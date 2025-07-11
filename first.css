@@ -17,7 +17,7 @@ body{
   font-style: normal;
 }
 header{
-    background-image: url('../Assets/Hero-bg.png');
+    background-image: url('../assets/Hero-bg.png');
     background-size: cover;
     height: 600px;
     width: 100%;
