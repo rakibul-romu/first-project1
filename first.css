@@ -1,6 +1,10 @@
+
+
 body{
     padding: 0px;
     margin: 0px;
+    background-color: #F5F8FF;
+  
 
    
 }
@@ -107,4 +111,47 @@ ul{
     margin-right: 100px;
     padding-top: 80px;
 
+}
+
+
+
+
+
+
+
+
+
+
+
+.section4-content{
+    height: 600px;
+    width: 1000px;
+    background-color: white;
+    margin-left: 130px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    border-radius: 10px;
+    text-align: center;
+   
+}
+.section4-title{
+    font-size: 48px;
+    font-weight: bold;
+    color: black;
+      padding-top: 50px;
+    padding-bottom: 0px;
+}
+
+.section4-text{
+    font-size: 20px;
+    color: black;
+    
+}
+.pic2{
+    height: 300px;
+    width: 800px;
+    border-radius: 10%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-radius: 20px;
 }
