@@ -1,6 +1,7 @@
 body{
     padding: 0px;
     margin: 0px;
+
    
 }
 header{
@@ -46,4 +47,64 @@ ul{
     margin-left: 210px;
     
     
+}
+
+.section1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 100px;
+    margin-left: 130px;
+    margin-right: 130px;
+    margin-bottom: 100px;
+}
+.section1-title{
+    font-size: 42px;
+    font-weight: bold;
+    color: black;
+}
+.section1-text{
+    font-size: 20px;
+    color: black;
+    margin-top: 20px;
+    max-width: 380px;
+}
+
+.pic-1{
+    height:328px ;
+    width:430px ;
+    
+    border-radius: 10%;
+    margin-top:100px; ;
+}
+
+
+.section2-content{
+    height:300px ;
+
+    width: 1000px;
+    background-color:lavender ;
+    margin-left: 130px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    border-radius: 10px;
+
+}
+.section2-title{
+    font-size: 38px;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    padding-top: 50px;
+}
+.section2-list{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-top: 80px;
+
 }
